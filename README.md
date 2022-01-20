@@ -1,0 +1,2 @@
+# FakeStore
+FakeStore || Redux || API
